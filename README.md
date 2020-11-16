@@ -2,7 +2,7 @@
 
 <img align="center" src="./logo-profile.gif" alt="img-profile"/>
 
-## About me :alien:
+## About me: :alien:
 I'm a fullstack developer of the JavaScript language.
 
 **Skills: :computer:**
@@ -16,13 +16,13 @@ I'm a fullstack developer of the JavaScript language.
 - GraphQl;
 
 
-## Courses :mortar_board: :books:
+## Courses: :mortar_board: :books:
 
 - Computer Technician;
 - Node Formation;
 - GraphQl.
 
-## Social networks :busts_in_silhouette:
+## Social networks: :busts_in_silhouette:
 
 - [Instagram](https://www.instagram.com/rfontt/)
 - [LinkdIn](https://www.linkedin.com/in/rita-de-cassia-fontenele-oliveira-5333751a3/)
