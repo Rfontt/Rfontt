@@ -11,6 +11,7 @@ I'm a fullstack developer of the JavaScript language.
  - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
  - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+ - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
  - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
  - ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
