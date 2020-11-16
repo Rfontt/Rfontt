@@ -7,8 +7,8 @@ I'm a fullstack developer of the JavaScript language.
 
 **Skills: :computer:**
 
-- Node;
-- React;
+ - ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+ - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 - React native;
 - Electron;
 - Mysql;
