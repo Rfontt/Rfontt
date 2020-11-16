@@ -9,11 +9,14 @@ I'm a fullstack developer of the JavaScript language.
 
  - ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
  - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-- React native;
-- Electron;
-- Mysql;
-- Api Rest and RestFull;
-- GraphQl;
+ - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+ - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+ - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+ - ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+ - React native;
+ - Electron;
+ - Api Rest and RestFull;
+ - GraphQl;
 
 
 ## Courses: :mortar_board: :books:
