@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, I'm Rita de Cassia. :person_frowning: </h3>
+<h3 align="center"> Hi, I'm Rita de Cassia. :raising_hand: </h3>
 
 <img align="center" src="./logo-profile.gif" alt="img-profile"/>
 
