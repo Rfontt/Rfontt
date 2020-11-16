@@ -22,7 +22,7 @@ I'm a fullstack developer of the JavaScript language.
 - Node Formation;
 - GraphQl.
 
-## Social networks
+## Social networks :busts_in_silhouette:
 
 - [Instagram](https://www.instagram.com/rfontt/)
 - [LinkdIn](https://www.linkedin.com/in/rita-de-cassia-fontenele-oliveira-5333751a3/)
