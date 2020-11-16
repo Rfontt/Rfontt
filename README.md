@@ -2,7 +2,7 @@
 
 <img align="center" src="./logo-profile.gif" alt="img-profile"/>
 
-## About me: :alien:
+## About me: :alien: :girl_technologist:
 I'm a fullstack developer of the JavaScript language.
 
 **Skills: :computer:**
