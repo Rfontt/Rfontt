@@ -1,16 +1,28 @@
-### Hi there 👋
+<h3 align="center"> Hi, I'm Rita de Cassia. :person_frowning: </h3>
 
-<!--
-**Rfontt/Rfontt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="./logo-profile.gif" alt="img-profile"/>
 
-Here are some ideas to get you started:
+## About me :alien:
+I'm a fullstack developer of the JavaScript language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills: :computer:**
+
+- Node;
+- React;
+- React native;
+- Electron;
+- Mysql;
+- Api Rest and RestFull;
+- GraphQl;
+
+
+## Courses :mortar_board: :books:
+
+- Computer Technician;
+- Node Formation;
+- GraphQl.
+
+## Social networks
+
+- [Instagram](https://www.instagram.com/rfontt/)
+- [LinkdIn](https://www.linkedin.com/in/rita-de-cassia-fontenele-oliveira-5333751a3/)
