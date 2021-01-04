@@ -4,7 +4,7 @@
 
 ## About me: :alien:
 
- I am a fullsatck programmer, specialist in backend with node.js and I am in a growing evolution.
+ I am a fullstack programmer in JavaScript, specialist in backend with node.js and I am in a growing evolution.
  I have 1 year experience with react, react native and, mainly, node. I have already made applications for store companies and I intend to grow even more by learning about the world of computational logic.
  I have knowledge in mysql and mongodb, as well as typescript and a bit of graphql that I am currently developing.
 
