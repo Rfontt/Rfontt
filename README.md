@@ -3,7 +3,10 @@
 <img align="center" src="./logo-profile.gif" alt="img-profile"/>
 
 ## About me: :alien:
-I'm a fullstack developer of the JavaScript language.
+
+ I am a fullsatck programmer, specialist in backend with node.js and I am in a growing evolution.
+ I have 1 year experience with react, react native and, mainly, node. I have already made applications for store companies and I intend to grow even more by learning about the world of computational logic.
+ I have knowledge in mysql and mongodb, as well as typescript and a bit of graphql that I am currently developing.
 
 **Skills: :computer:**
 
@@ -22,7 +25,6 @@ I'm a fullstack developer of the JavaScript language.
  - [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
  
 ## Courses: :mortar_board: :books:
----
 
 - Computer Technician;
 - Node Formation;
