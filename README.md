@@ -15,6 +15,7 @@ I'm a fullstack developer of the JavaScript language.
  - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
  - ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+ - DB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
  - [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
  - [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
  - [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
