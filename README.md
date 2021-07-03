@@ -11,7 +11,7 @@ I've been a fullstack developer for two years specializing in backend in languag
  - ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
  - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
- - [![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&link=https://github.com/Rfontt)
+ - ![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&link=https://github.com/Rfontt)
  - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Rfontt/)](https://github.com/LuizCarlosAbbott/)
  - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Rfontt/)](https://github.com/Rfontt/)
  - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
