@@ -35,6 +35,7 @@ I've been a fullstack developer for two years specializing in backend in languag
  
 ## Courses: :mortar_board: :books:
 
+- Analysis and systems development - FIAP;
 - Computer Technician;
 - Node Formation;
 - GraphQl;
