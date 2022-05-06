@@ -39,7 +39,8 @@ I've been a fullstack developer for three years specializing in backend in langu
 - Computer Technician;
 - Node Formation;
 - GraphQl;
-- Java(Alura).
+- Java(Alura)
+- JSExpert.
 
 ## Social networks: :busts_in_silhouette:
 
