@@ -7,13 +7,10 @@
 I've been a fullstack developer for three years specializing in backend in languages: JavaScript and Java. I have knowledge in design patterns and architecture, always striving for clean code. On the frontend I work with HTML, CSS and JS, in addition to using the React and Angular framework and its technologies, I also always try to bring an elegant design for a good user experience. In the backend I use node and java to create api's and work with databases: MYSQL, MONGODB, POSTGRESQL. For testing purposes I use Cypress , Mocha, Chai and Jest for api's and end-to-end tests. I love programming and I want to go deeper and deeper into this world of technology, always looking to solve problems above all else.
 
 
-```javascript
-(function Profile() {
-    let work = "Fullstack programmer at CVC Corp";
-    let specialty = "Backend";
-    
-    return {work, specialty};
- })();
+```kt
+fun handle(): String {
+  return "Software Engineer at iFood"
+}
 ```
 
 **Skills: :computer:**
