@@ -37,6 +37,7 @@ public static void main(String[] args) {
 - Node Formation;
 - GraphQl;
 - Java(Alura);
+- FullCycle;
 - JSExpert.
 
 ## Social networks: :busts_in_silhouette:
