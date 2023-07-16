@@ -14,21 +14,13 @@ public static void main(String[] args) {
 
 **Skills: :computer:**
 
- - ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
- - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
- - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
- - ![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&link=https://github.com/Rfontt)
- - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Rfontt/)](https://github.com/LuizCarlosAbbott/)
- - [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Rfontt/)](https://github.com/Rfontt/)
- - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
- - ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
- - ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
- - [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/Rfontt/)](https://github.com/Rfontt/)
- - [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/Rfontt/)](https://github.com/Rfontt/)
- - [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/Rfontt/)](https://github.com/Rfontt/)
- - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/Rfontt/)](https://github.com/Rfontt/)
- - [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Rfontt/)](https://github.com/LuizCarlosAbbott/)
- 
+JAVA | KOTLIN | SPRING BOOT | SPRING CLOUD | SPRING DATA | GRADLE | MAVEN
+JAVASCRIPT | TYPESCRIPT | NODEJS | REACT | EXPRESS | MATERIAL-UI | NPM | YARN | REACT NATIVE
+LINUX | SHELL SCRIPT | KUBERNETES | DOCKER | DOCKER-COMPOSE | KAFKA | RED-PANDA
+CLEAN CODE | CLEAN ARCHITECTURE | MONOLITY | MICROSERVICE | EVENT-DRIVEN
+DATADOG | GRAFANA | LOGZ.IO 
+GIT | GITHUB | GITLAB
+
 ## Courses: :mortar_board: :books:
 
 - Analysis and systems development - FIAP;
