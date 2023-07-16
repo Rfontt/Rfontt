@@ -22,6 +22,7 @@ public static void main(String[] args) {
 - DATADOG | GRAFANA | LOGZ.IO <br />
 - GIT | GITHUB | GITLAB <br />
 - MYSQL | POSTGRESQL | ORACLEDB | SCYLLADB | MONGODB <br />
+- JUNIT | CHAI | JEST | KOTEST | CYPRESS <br />
 - AWS | S3 | EC2
 
 ## Courses: :mortar_board: :books:
