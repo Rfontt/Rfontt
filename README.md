@@ -21,7 +21,7 @@ public static void main(String[] args) {
 - VAULT | CONSUL
 - DATADOG | GRAFANA | LOGZ.IO <br />
 - GIT | GITHUB | GITLAB <br />
-- MYSQL | POSTGRE | ORACLEDB | SCYLLADB | MONGODB <br />
+- MYSQL | POSTGRESQL | ORACLEDB | SCYLLADB | MONGODB <br />
 - AWS | S3 | EC2
 
 ## Courses: :mortar_board: :books:
