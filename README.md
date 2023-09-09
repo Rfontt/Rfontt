@@ -2,13 +2,11 @@
 
 <img align="center" src="./logo-profile.gif" alt="img-profile"/>
 
-<div align="center">
   ____   __             _   _   
  |  _ \ / _| ___  _ __ | |_| |_ 
  | |_) | |_ / _ \| '_ \| __| __|
  |  _ <|  _| (_) | | | | |_| |_ 
  |_| \_\_|  \___/|_| |_|\__|\__|
-</div>
 
 ## About me: :alien:
  
