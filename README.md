@@ -12,7 +12,7 @@ public static void main(String[] args) {
 }
 ```
 
-**Skills: :computer:**
+## Skills: :computer:
 
 - JAVA | KOTLIN | SPRING BOOT | SPRING CLOUD | SPRING DATA | GRADLE | MAVEN <br />
 - JAVASCRIPT | TYPESCRIPT | NODEJS | REACT | EXPRESS | MATERIAL-UI | NPM | YARN | REACT NATIVE <br />
