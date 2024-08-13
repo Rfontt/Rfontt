@@ -27,6 +27,7 @@ public static void main(String[] args) {
 
 ## Courses: :mortar_board: :books:
 
+- Postgraduate in Software Architecture - FIAP;
 - Analysis and systems development - FIAP;
 - Computer Technician;
 - Node Formation;
