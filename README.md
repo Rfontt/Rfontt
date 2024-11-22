@@ -4,7 +4,10 @@
 
 ## About me: :alien:
  
-I have been working as a software engineer for five years. My work is focused on solving problems. I'm a fullstack developer and backend specialist. I have knowledge in java, kotlin, javascript, typescript, shell script, linux, kubernetes, docker, jenkins, git, gitlab, github, aws, consul, vault, postgres, mysql, oracledb, spring boot, spring cloud, kafka, scylladb, nodejs, react, react native, jest, chai, junit, kotest, cypress. To software architecture I work with ports and adapters architecture, DDD, event sourcing, event driven. I love programming and computers, my goal is to help the world with that.
+I have five years of experience as a Software Engineer and Architect, working on challenging projects that require full-stack and full-cycle expertise. As a backend specialist, I bring a wide range of technical knowledge to the organizations I collaborate with.  
+I hold a degree in Systems Analysis and Development and am currently pursuing a postgraduate degree in Software Architecture. My technical skill set includes proficiency in Java, Kotlin, Golang, JavaScript, TypeScript, Shell Script, Linux, Kubernetes, Docker, Jenkins, Git, GitLab, GitHub, AWS, Consul, Vault, PostgreSQL, MySQL, OracleDB, Spring Boot, Spring Cloud, Kafka, ScyllaDB, Node.js, React, React Native, Jest, Chai, JUnit, Kotest, and Cypress.  
+I have solid expertise in Application Architecture and Design, applying methodologies such as Hexagonal Architecture (Ports and Adapters), Clean Architecture, Domain-Driven Design (DDD), Event Sourcing, and Event-Driven Architecture to build robust and scalable systems.
+I am deeply passionate about programming and technology, and my purpose is to use my skills to create solutions that positively impact the world.
 
 ```java
 public static void main(String[] args) {
