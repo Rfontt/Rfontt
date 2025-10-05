@@ -6,7 +6,7 @@
  
 I have five years of experience as a Software Engineer and Architect, working on challenging projects that require full-stack and full-cycle expertise. As a backend specialist, I bring a wide range of technical knowledge to the organizations I collaborate with.  
 
-I hold a degree in Systems Analysis and Development and am currently pursuing a postgraduate degree in Software Architecture. My technical skill set includes proficiency in Java, Kotlin, Golang, JavaScript, TypeScript, Shell Script, Linux, Kubernetes, Docker, Jenkins, Git, GitLab, GitHub, AWS, Consul, Vault, PostgreSQL, MySQL, OracleDB, Spring Boot, Spring Cloud, Kafka, ScyllaDB, Node.js, React, React Native, Jest, Chai, JUnit, Kotest, and Cypress.  
+I hold a degree in Systems Analysis and Development and a postgraduate degree in Software Architecture. My technical skill set includes proficiency in Java, Kotlin, Golang, JavaScript, TypeScript, Shell Script, Linux, Kubernetes, Docker, Jenkins, Git, GitLab, GitHub, AWS, Consul, Vault, PostgreSQL, MySQL, OracleDB, Spring Boot, Spring Cloud, Kafka, ScyllaDB, Node.js, React, React Native, Jest, Chai, JUnit, Kotest, and Cypress.  
 
 I have solid expertise in Application Architecture and Design, applying methodologies such as Hexagonal Architecture (Ports and Adapters), Clean Architecture, Domain-Driven Design (DDD), Event Sourcing, and Event-Driven Architecture to build robust and scalable systems.  
 
