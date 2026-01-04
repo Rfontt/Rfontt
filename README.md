@@ -20,18 +20,18 @@ public static void main(String[] args) {
 
 ## Skills: :computer:
 
-Programming Languages: Java, Kotlin, Go, JavaScript/TypeScript, C#, Shell Script
-Databases: PostgreSQL, MySQL, OracleDB, MongoDB, DynamoDB
-Backend Frameworks: Spring Boot, Spring Cloud, Gin, Echo, Express.js, React, React Native, Jetpack Compose
-Cloud and Infrastructure: AWS (SQS, SNS, S3, DynamoDB, EC2), Kubernetes, Docker, Jenkins
-Service Discovery and Configuration / Secrets: Consul, Vault
-Messaging and Streaming: Kafka, SQS/SNS
-Testing: JUnit, Kotest, Jest, Cypress
-Observability and Monitoring: Datadog, Grafana, Kibana
-Version Control: Git, GitHub, GitLab
-Operating Systems: Linux (advanced)
-AI Tools: Claude, Windsurf
-Software Architecture: Hexagonal Architecture (Ports & Adapters), Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing
+- Programming Languages: Java, Kotlin, Go, JavaScript/TypeScript, C#, Shell Script
+- Databases: PostgreSQL, MySQL, OracleDB, MongoDB, DynamoDB
+- Backend Frameworks: Spring Boot, Spring Cloud, Gin, Echo, Express.js, React, React Native, Jetpack Compose
+- Cloud and Infrastructure: AWS (SQS, SNS, S3, DynamoDB, EC2), Kubernetes, Docker, Jenkins
+- Service Discovery and Configuration / Secrets: Consul, Vault
+- Messaging and Streaming: Kafka, SQS/SNS
+- Testing: JUnit, Kotest, Jest, Cypress
+- Observability and Monitoring: Datadog, Grafana, Kibana
+- Version Control: Git, GitHub, GitLab
+- Operating Systems: Linux (advanced)
+- AI Tools: Claude, Windsurf
+- Software Architecture: Hexagonal Architecture (Ports & Adapters), Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing
 
 ## Courses: :mortar_board: :books:
 
