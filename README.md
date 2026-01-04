@@ -20,16 +20,18 @@ public static void main(String[] args) {
 
 ## Skills: :computer:
 
-- JAVA | KOTLIN | SPRING BOOT | SPRING CLOUD | SPRING DATA | GRADLE | MAVEN <br />
-- JAVASCRIPT | TYPESCRIPT | NODEJS | REACT | EXPRESS | MATERIAL-UI | NPM | YARN | REACT NATIVE <br />
-- LINUX | SHELL SCRIPT | KUBERNETES | DOCKER | DOCKER-COMPOSE | KAFKA | RED-PANDA | JENKINS <br />
-- CLEAN CODE | CLEAN ARCHITECTURE | MONOLITY | MICROSERVICE | EVENT-DRIVEN | EVENT-SOURCING | DDD <br />
-- VAULT | CONSUL
-- DATADOG | GRAFANA | LOGZ.IO <br />
-- GIT | GITHUB | GITLAB <br />
-- MYSQL | POSTGRESQL | ORACLEDB | SCYLLADB | MONGODB <br />
-- JUNIT | CHAI | JEST | KOTEST | CYPRESS <br />
-- AWS | S3 | EC2
+Programming Languages: Java, Kotlin, Go, JavaScript/TypeScript, C#, Shell Script
+Databases: PostgreSQL, MySQL, OracleDB, MongoDB, DynamoDB
+Backend Frameworks: Spring Boot, Spring Cloud, Gin, Echo, Express.js, React, React Native, Jetpack Compose
+Cloud and Infrastructure: AWS (SQS, SNS, S3, DynamoDB, EC2), Kubernetes, Docker, Jenkins
+Service Discovery and Configuration / Secrets: Consul, Vault
+Messaging and Streaming: Kafka, SQS/SNS
+Testing: JUnit, Kotest, Jest, Cypress
+Observability and Monitoring: Datadog, Grafana, Kibana
+Version Control: Git, GitHub, GitLab
+Operating Systems: Linux (advanced)
+AI Tools: Claude, Windsurf
+Software Architecture: Hexagonal Architecture (Ports & Adapters), Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing
 
 ## Courses: :mortar_board: :books:
 
