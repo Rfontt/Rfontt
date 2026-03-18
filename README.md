@@ -1,6 +1,6 @@
 <h3 align="center"> Hi, I'm Rita de Cassia. :raising_hand: </h3>
 
-<img align="center" src="./logo-profile.gif" alt="img-profile"/>
+<img align="center" src="./github_cover.png" alt="img-profile"/>
 
 ## About me: :alien:
  
