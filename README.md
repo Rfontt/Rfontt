@@ -20,7 +20,7 @@ public static void main(String[] args) {
 
 ## Skills: :computer:
 
-- **Programming Languages**: Java, Kotlin, Go, JavaScript/TypeScript, C#, Shell Script
+- **Programming Languages**: Java, Kotlin, Go, JavaScript/TypeScript, C#, Shell Script, Rust
 - **Databases**: PostgreSQL, MySQL, OracleDB, MongoDB, DynamoDB
 - **Backend Frameworks**: Spring Boot, Spring Cloud, Gin, Echo, Express.js, React, React Native, Jetpack Compose
 - **Cloud and Infrastructure**: AWS (SQS, SNS, S3, DynamoDB, EC2), Kubernetes, Docker, Jenkins
