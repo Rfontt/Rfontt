@@ -4,7 +4,7 @@
 
 ## About me: :alien:
  
-I am a Software Engineer and Software Architect with over 5 years of experience designing, building, and evolving backend systems for complex, high-impact products. I work across the full software lifecycle, from system design and architecture to implementation, observability, and production support.
+I am a Software Engineer and Software Architect with over 6 years of experience designing, building, and evolving backend systems for complex, high-impact products. I work across the full software lifecycle, from system design and architecture to implementation, observability, and production support.
 
 I specialize in backend engineering and distributed systems, with a strong focus on scalability, reliability, and clean, maintainable architectures. I enjoy tackling technically challenging problems and collaborating closely with cross-functional teams to deliver resilient systems that scale over time.
 
