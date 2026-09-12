@@ -39,7 +39,7 @@ public static void main(String[] args) {
 - Postgraduate in Software Architecture - FIAP;
 - Analysis and systems development - FIAP;
 - Computer Technician;
-- Context Engineering - Alura
+- Context Engineering - Alura;
 - Node Formation;
 - GraphQl;
 - Java - Alura;
