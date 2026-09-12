@@ -30,7 +30,7 @@ public static void main(String[] args) {
 - **Observability and Monitoring**: Datadog, Grafana, Kibana
 - **Version Control**: Git, GitHub, GitLab
 - **Operating Systems**: Linux (advanced)
-- **AI Tools**: Pi Agent, Claude, Windsurf
+- **AI Tools**: Pi Agent, Hermes, Claude, Windsurf
 - **AI Concepts**: Harness Engineering, Context Engineering, Ai Memory, Skill/Commands/Agent Workflow
 - **Software Architecture**: Hexagonal Architecture (Ports & Adapters), Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing
 
